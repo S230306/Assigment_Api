@@ -1,0 +1,11 @@
+{
+    "categories": [
+        "food"
+    ],
+    "created_at": "2020-01-05 13:42:19.576875",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "wwejtx8ascmzfkc6gjqmqa",
+    "updated_at": "2020-01-05 13:42:19.576875",
+    "url": "https://api.chucknorris.io/jokes/wwejtx8ascmzfkc6gjqmqa",
+    "value": "Chuck Norris kills anyone that asks: \"Do you want fries with that?\". Because by now everyone should know that Chuck doesn't want fries with anything. Ever."
+}
